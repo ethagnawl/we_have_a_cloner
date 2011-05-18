@@ -11,16 +11,3 @@ function we_have_a_cloner(obj) {
   }
   return new_obj;
 }
-
-  var my_obj = {
-    arr: [1,2,3],
-    obj: {
-      arr: [4,5,6],
-      some_obj: {
-        val: 'whoah'
-      }
-    }
-
-  };
-
-console.log(we_have_a_cloner(my_obj));
