@@ -1,0 +1,15 @@
+I wrote we_have_a_cloner with the intentions of submitting it to The CoffeeScript Cookbook (http://coffeescriptcookbook.com), but someone beat me to it.
+
+So, here it will live out the rest of its life as a function that will gladly clone any object, to any depth.
+
+... and in case you're wondering where the name came from:
+
+Frylock: What is this?
+Mothmonsterman: Oh that's Carl. You guy's know him? He's got a real mouth on him.
+Carl: Oohhhh. My stomach is vibratin'.
+Master Shake: Oh, hey Carl! I didn't recognize you with all that... silk.
+Carl: Please God. Cut me down, here Fryman.
+Frylock: What've you done to him?
+Mothmonsterman: I just layed a thousand of my eggs inside of his esophagus. Yeah. You know, I need to propagate my species and he's being a baby about it.
+Frylock: Well, you know we have a cloner.
+Mothmonsterman: Serious?
